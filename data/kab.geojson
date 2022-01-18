@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"name": "kab",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "TOPONIM": "Molibagu", "PELAKSANA": "Bolaang Mongondow Selatan", "WEB": "jumbotron\/Molibagu.html" }, "geometry": { "type": "Point", "coordinates": [ 123.983105330918434, 0.38184855446646 ] } },
+{ "type": "Feature", "properties": { "TOPONIM": "Kotamobagu", "PELAKSANA": "Kota Kotamobagu", "WEB": "jumbotron\/Kotamobagu.html" }, "geometry": { "type": "Point", "coordinates": [ 124.312023699748551, 0.74412564264027 ] } },
+{ "type": "Feature", "properties": { "TOPONIM": "Lolak", "PELAKSANA": "Bolaang Mongondow", "WEB": "jumbotron\/Lolak.html" }, "geometry": { "type": "Point", "coordinates": [ 124.024695518443067, 0.870518360912664 ] } },
+{ "type": "Feature", "properties": { "TOPONIM": "Amurang", "PELAKSANA": "Minahasa Selatan", "WEB": "jumbotron\/Amurang.html" }, "geometry": { "type": "Point", "coordinates": [ 124.59751098855152, 1.212525015974416 ] } },
+{ "type": "Feature", "properties": { "TOPONIM": "Tutuyan", "PELAKSANA": "Bolaang Mongondow Timur", "WEB": "jumbotron\/Tutuyan.html" }, "geometry": { "type": "Point", "coordinates": [ 124.613428229270923, 0.768660037057337 ] } },
+{ "type": "Feature", "properties": { "TOPONIM": "Tondano", "PELAKSANA": "Minahasa", "WEB": "jumbotron\/Tondano.html" }, "geometry": { "type": "Point", "coordinates": [ 124.910197013385798, 1.300738123732097 ] } },
+{ "type": "Feature", "properties": { "TOPONIM": "Ratahan", "PELAKSANA": "Minahasa Tenggara", "WEB": "jumbotron\/Ratahan.html" }, "geometry": { "type": "Point", "coordinates": [ 124.796450016278669, 1.040713022857134 ] } },
+{ "type": "Feature", "properties": { "TOPONIM": "Tomohon", "PELAKSANA": "Kota Tomohon", "WEB": "jumbotron\/Tomohon.html" }, "geometry": { "type": "Point", "coordinates": [ 124.827613517975209, 1.314248631323121 ] } },
+{ "type": "Feature", "properties": { "TOPONIM": "Manado", "PELAKSANA": "Kota Manado", "WEB": "jumbotron\/manado.html" }, "geometry": { "type": "Point", "coordinates": [ 124.849295578896502, 1.484413402029134 ] } },
+{ "type": "Feature", "properties": { "TOPONIM": "Air Madidi", "PELAKSANA": "Minahasa Utara", "WEB": "jumbotron\/Air Madidi.html" }, "geometry": { "type": "Point", "coordinates": [ 124.97438573636434, 1.458712994913034 ] } },
+{ "type": "Feature", "properties": { "TOPONIM": "Bitung", "PELAKSANA": "Kota Bitung", "WEB": "jumbotron\/Bitung.html" }, "geometry": { "type": "Point", "coordinates": [ 125.18345200613588, 1.445590097485259 ] } },
+{ "type": "Feature", "properties": { "TOPONIM": "Boroko", "PELAKSANA": "Bolaang Mongondow Utara", "WEB": "jumbotron\/Boroko.html" }, "geometry": { "type": "Point", "coordinates": [ 123.258786658091196, 0.905788894888717 ] } },
+{ "type": "Feature", "properties": { "TOPONIM": "Melonguane", "PELAKSANA": "Kepulauan Talaud", "WEB": "jumbotron\/Melonguane.html" }, "geometry": { "type": "Point", "coordinates": [ 126.682691853754875, 4.006033450323322 ] } },
+{ "type": "Feature", "properties": { "TOPONIM": "Tahuna", "PELAKSANA": "Kepulauan Sangihe", "WEB": "jumbotron\/Tahuna.html" }, "geometry": { "type": "Point", "coordinates": [ 125.499667872956223, 3.612247958122574 ] } },
+{ "type": "Feature", "properties": { "TOPONIM": "Ondong", "PELAKSANA": "Sitaro", "WEB": "jumbotron\/Ondong.html" }, "geometry": { "type": "Point", "coordinates": [ 125.362321607853417, 2.744388119819769 ] } }
+]
+}
